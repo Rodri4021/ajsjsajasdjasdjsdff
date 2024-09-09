@@ -1,0 +1,8 @@
+BORRAR ESTO ANTES DE PONER LAS IDS
+En este txt se ponen las IDs de los mensajes que quieren reenviar. Recuerden que deben ser del grupo que pusieron en main.py.
+Se pueden conseguir las IDs de los mensajes dando click derecho y "Copiar enlace al Post", pero solo pongan la ID, no la URL. Ej.:
+198
+203
+483
+632
+BORRAR ESTO ANTES DE PONER LAS IDS

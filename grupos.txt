@@ -1,0 +1,6 @@
+ELIMINAR ESTO ANTES DE PONER LAS IDS
+Acá ponen las IDs de los grupos a los que quieren enviar los mensajes. Sin poner nada adicional, cada línea es un grupo. Ej.:
+-100239818132
+-100129837129
+-100127317116
+ELIMINAR ESTO ANTES DE PONER LAS IDS
